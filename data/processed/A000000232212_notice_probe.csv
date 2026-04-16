@@ -1,0 +1,2 @@
+"goods_no","has_notice_title","has_ingredient_text","has_usage_period","has_volume_text","has_country_of_origin","has_cautions","has_notice_value_hint","strategy_hint"
+"A000000232212",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"needs_browser_or_api_trace"
